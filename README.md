@@ -1,2 +1,2 @@
 # testrepo
-following the IBM git course
+In this repo, I am following the IBM git course.
